@@ -1,0 +1,23 @@
+body {
+    background-color: #ffabb6;
+}
+
+.center {
+    text-align: center;
+}
+.container {
+    width: 45vw;
+    margin: auto;
+    background-color: #9df9ef;
+    padding: 40px;
+    border: 5px solid #edf7f6;
+    border-radius: 20px;
+}
+
+#result {
+    display: none;
+    margin-top: 20px;
+    font-size: 24px;
+    border: 2px dashed #edf7f6;
+    padding: 20px 5px;
+}
